@@ -1,1 +1,1 @@
-load File.expand_path('../../tasks/jasongorst.rake.rake', __FILE__)
+load File.expand_path('../../tasks/jasongorst.rake', __FILE__)
